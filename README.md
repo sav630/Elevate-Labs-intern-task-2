@@ -33,7 +33,8 @@ A clean, responsive, and animated **To-Do List** web app using **HTML**, **CSS**
 
 ##  Preview
 
-![screenshot](preview.png) 
+![screenshot](![todolist](https://github.com/user-attachments/assets/9d43075f-b85d-4265-821e-9ef2687f678a)
+) 
 
 ---
 
